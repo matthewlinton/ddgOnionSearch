@@ -1,9 +1,10 @@
-# README #
-
-ddgOnionSearch is a collection of scripts to add DuckDuckGo's search functionality to your browsers search bar.
-
 ## ABOUT ##
 
+ddgOnionSearch is a collection of scripts to add DuckDuckGo's search functionality to your browser's search bar.
+
+ddgOnionSearch uses the [Open Search description Document](http://www.opensearch.org/Specifications/OpenSearch/1.1#OpenSearch_description_document) format.
+
+### Search Add-Ons ###
 Below is a description of what each Search add-on does.
 
 #### DuckDuckGo_Search_Onion_HTML.xml ####
